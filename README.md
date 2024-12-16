@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sudhina D ! <br/><a href="https://github.com/SudhinaD">Researcher</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sudhina D ! <br/><a href="https://github.com/SudhinaD">Researcher</a>, <a href="https://www.linkedin.com/in/sudhina-d/">AI/ML and Robotics Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

@@ -24,7 +24,7 @@
   - [Deep NN Algos in Python](https://github.com/SudhinaD/Deep-Neural-Network-Projects) <b><i>
 
 
-<h2>👨‍💻 Robotics Projects </h2>
+<h2>👨‍💻 Robotics Projects: </h2>
 
 - <b>Robotic Navigation (AlgoExpert)</b>
   - [Robotic Algos in Python](https://github.com/SudhinaD/Robotics)

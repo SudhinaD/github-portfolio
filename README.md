@@ -1,5 +1,9 @@
 <h1>Hi, I'm Sudhina D ! <br/><a href="https://github.com/SudhinaD">Researcher</a>, <a href="https://www.linkedin.com/in/sudhina-d/">AI/ML and Robotics Professional</a></h1>
 
+<p align="center">
+    <img src="https://i.pinimg.com/originals/ab/53/c3/ab53c3258caa5c3c691b4de46cb5ad88.gif" width="450" height="450" >
+</p>
+
  <h2>About Me:</h2>
     <div class="about">
       <p>
@@ -30,21 +34,28 @@
 <p> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/search?sca_esv=f317ae5c71528275&rlz=1C1CHBD_enIN1087IN1087&sxsrf=ADLYWIJhC50FG8cU_SFVLMOYuOM20xFqng:1734371448427&q=docker+logo&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J603JUkR9Y5suk8yuy50qOa0K08TrPholP8ECM8ELoq5IUBS6CRaLhdJrYheb4i23Gg2RMFPTdB5NMZThSbhb_5dQUAFBko-TndSSa2R3ghL4Yrkf_d_1PEifnHWmbfc-15i61Wj3vOrNfn3Uz_lR5JJetuO5Zbrt_SwcCSNG8Kn_rJV3w&sa=X&sqi=2&ved=2ahUKEwiw9t2Q7ayKAxXXSWwGHQnnAjgQtKgLegQIDhAB&biw=1536&bih=730&dpr=1.25#vhid=8vOMKlBZ1ef6ZM&vssid=mosaic" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <a href="https://www.labview.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/L/labview-logo-263E42F647-seeklogo.com.png" alt="docker" width="40" height="40"/> 
   </a> 
+ 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mplab.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/M/mplab-x-ide-logo-B1D898D52B-seeklogo.com.png" alt="mplab" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.proteus.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://banner2.cleanpng.com/20181106/twc/kisspng-logo-brand-product-design-font-5be2601b8123b9.823198931541562395529.jpg" alt="proteus" width="40" height="40"/> 
   </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
@@ -61,18 +72,21 @@
 
     
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤛 Connect with me:</h2>
 
-[<img align="left" alt="Sudhina_D | LinkedIn"  src="https://www.linkedin.com/in/sudhina-d/" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/sudhina-d/
+<a href="https://www.linkedin.com/in/sudhina-d/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" 
+       alt="Sudhina D | LinkedIn" 
+       width="20" 
+       height="20" 
+       align="left" />
+</a>
 
 -
-
 - 🔭 I’m currently working as PhD Researcher at IIT Palakkad
 - 🌱 I’m currently learning robotics and control
 - 💬 Ask me about state estimation, sensor fusion, cyber security, trajectory tracking, Nash Qlearning, Image segmentation, Classification 
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Despite working with robots and AI, I secretly believe my houseplants have a personality of their own!
--->
+

@@ -67,26 +67,19 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
+   
 
 
-
-    
-
-<h2>🤛 Connect with me:</h2>
-
-<a href="https://www.linkedin.com/in/sudhina-d/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" 
-       alt="Sudhina D | LinkedIn" 
-       width="20" 
-       height="20" 
-       align="left" />
-</a>
-
--
+#
 - 🔭 I’m currently working as PhD Researcher at IIT Palakkad
 - 🌱 I’m currently learning robotics and control
 - 💬 Ask me about state estimation, sensor fusion, cyber security, trajectory tracking, Nash Qlearning, Image segmentation, Classification 
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Despite working with robots and AI, I secretly believe my houseplants have a personality of their own!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SudhinaD&label=Profile%20views&color=0e75b6&style=flat" alt="SudhinaD" /> </p>
+
+#
+<p align="center"> <a href="https://github.com/SudhinaD"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/sudhina-d/"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="40" height="40"> </p>
 
